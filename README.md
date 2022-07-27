@@ -1,0 +1,1 @@
+# MAVEN_GIT-with-pom-file
